@@ -1,9 +1,7 @@
-# HirokiMurakami.com
+# josesimian.com
 
-A one-page freelance portfolio website designed and developed by Hiroki Murakami. 
+One-page personal site for José Manuel Simián. Plain HTML and CSS, no build step, no animation.
 
-Hiroki Murakami is an independent strategist at the intersection of innovation consulting and creative strategy.
+Design adapted from [hirokimurakami.com](https://github.com/type0001/HirokiMurakami.com) by Hiroki Murakami.
 
-Open-source and free to use. Any third-party contributors are credited inline 
-
-Email me at hnmurakami@gmail with any questions! 
+Preview locally: `python3 -m http.server 8000`

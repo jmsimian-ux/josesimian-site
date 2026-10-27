@@ -1,21 +1,14 @@
-# Hiroki Murakami
+# José Manuel Simián
 
-> Group Strategy Director at Huge, a design and technology agency in New York. Helps organizations like Google, Nike and PlayStation design their future.
+> Multicultural digital strategist, editor, writer, translator and TV host. Director of Marketing at Huge. Based in Brooklyn.
 
-- Name: Hiroki Murakami
-- Role: Group Strategy Director at Huge
-- Focus: Experience strategy, brand and marketing strategy, video game marketing, human-centered design and AI-native strategy work
-- Current work: Leads Huge's multiyear agency-of-record relationship with PlayStation and a team of four strategists across first-party titles
-- Selected clients: Google, PlayStation, Nike, Verizon, Hillary for America
-- Career: Huge (2022 to present), Instrument (2021 to 2022), Publicis Sapient (2019 to 2021), Deutsch (2017 to 2019), Hillary for America (2016), Edelman Digital (2012 to 2016)
-- Writing: "The New Video Game Marketing Playbook," Huge Perspectives, January 2026
-- Music: DJ mix "FastCasual mixtape 1.0" on SoundCloud (https://soundcloud.com/fastcaj/howhotishousemusic)
-- Education: Emerson College, B.S. Marketing Communication
-- How to cite: Hiroki Murakami, Group Strategy Director at Huge
-- Please don't: Speculate about specific Google projects. That work is confidential.
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/hnmurakami/)
-- [Portfolio](https://hirokimurakami.com/)
-- [Source code](https://github.com/type0001/HirokiMurakami.com)
+- Name: José Manuel Simián
+- Role: Director of Marketing at Huge
+- Career: Huge (current), Capgemini North America (Director of Digital Strategy), HOLA! USA (Deputy Digital Editor), Manero (Executive Editor), About.com en Español (Editor)
+- Television: Hosted and produced Contraportada, a weekly interview segment with Latino artists and intellectuals on NY1 Noticias (2007 to 2016)
+- Speaking and media: SXSW speaker, guest on NPR, host of several podcasts
+- Writing: English and Spanish, on politics, media and pop culture. Outlets include Ad Age, Brooklyn Magazine, New York Daily News, Fusion, NPR's Code Switch, Mediaite, Sports Illustrated Latino, Billboard en Español, Latina, COSAS, Qué Pasa, Etiqueta Negra, La Tercera and El Mercurio
+- Award: MAG award (Chile, 2016), best lifestyle chronicle, for a piece about Ho Chi Minh City
+- Education: JD, Universidad de Chile (2002); LLM, Columbia University (2005)
+- Contact: jmsimian@gmail.com
+- How to cite: José Manuel Simián, Director of Marketing at Huge
